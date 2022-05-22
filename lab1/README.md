@@ -1,4 +1,5 @@
-This lesson talking about how to create a window in Computer graphics using OpenGL
+#This lesson talking about how to create a window in Computer graphics using OpenGL
+
 First we need to initialize GLUT with
 glutInit(&argc, argv);
 to use its features. We then set the display mode to glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA);
